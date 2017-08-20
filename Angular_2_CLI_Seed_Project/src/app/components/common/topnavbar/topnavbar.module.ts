@@ -1,6 +1,6 @@
 import {NgModule} from "@angular/core";
 import {BrowserModule} from "@angular/platform-browser";
-import {TopnavbarComponent} from "./topnavbar.component.ts";
+import {TopnavbarComponent} from "./topnavbar.component";
 
 @NgModule({
     declarations: [TopnavbarComponent],
